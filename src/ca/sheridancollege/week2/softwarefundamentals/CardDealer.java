@@ -18,5 +18,7 @@ public class CardDealer
         nineClubs.setSuit("diamonds");
         int shit;
         int logs;
+        int a;
+        int b;
     }
 }
